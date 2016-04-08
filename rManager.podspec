@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "rManager"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "rManager"
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                        根部管理基类
+                        根部管理基类,manager!
                    DESC
 
   s.homepage     = "https://github.com/hejinqiang/RootManager"
@@ -80,7 +80,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/hejinqiang/RootManager.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/hejinqiang/RootManager.git", :tag => "1.0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

@@ -7,7 +7,6 @@
 //
 
 #import "RootManager.h"
-#import "AppDelegate.h"
 
 @implementation RootManager
 
